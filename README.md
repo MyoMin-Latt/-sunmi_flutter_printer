@@ -24,4 +24,4 @@ flutter run
 
 ## Versions used
 - Flutter: 3.3.10
-- Dart: 2.18.6
+- Dart: 2.18.6# -sunmi_flutter_printer
